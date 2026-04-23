@@ -1,0 +1,12 @@
+# Models (file rất lớn)
+models/*.pkl
+*.pkl
+
+# Cache
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Environment
+.env
+venv/
